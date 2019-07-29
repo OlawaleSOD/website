@@ -1,6 +1,8 @@
 <template>
   <div>
-    <b-jumbotron class="flex flex-wraps">
+    <b-jumbotron class="flex bg-white flex-wraps mt-5">
+
+      <Navbar />
 
       <b-container fluid>
         <b-row>
@@ -29,14 +31,24 @@
 
 
     <section class="my-20">
-      <b-row class="h-50">
-    <b-col cols="8">1 of 3</b-col>
-    <b-col cols="4">2 of 3</b-col>
-  </b-row>
+      <Column />
 
-  <b-row
+    </section>
 
+    <section class="my-20">
+      
     </section>
 </div>
 </template>
 
+
+<script>
+import Navbar from "~/components/Navbar.vue";
+import Column from "~/components/Column.vue";
+export default {
+  components: {
+    Navbar,
+    Column
+  }
+}
+</script>
