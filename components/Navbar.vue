@@ -1,13 +1,13 @@
 <template>
   <div>
-  <b-navbar toggleable="sm" type="light" variant="light">
+  <b-navbar fixed="top" toggleable="sm" type="light" variant="light">
     <b-navbar-toggle target="nav-text-collapse"></b-navbar-toggle>
 
     <b-navbar-brand class="mx-5">
       <a href="#">
-      <img src="/raxzle.png"
+      <img src="/raxzle.png">
       </a>
-      <span href="#" class="font-semibold text-xl tracking-tight"><a href="#">Braxzle</a></span>
+      <span href="#" class="text-white"><a href="#">Braxzle</a></span>
     </b-navbar-brand>
 
     <b-collapse id="nav-text-collapse" is-nav>
