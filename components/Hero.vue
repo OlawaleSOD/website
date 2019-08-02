@@ -14,10 +14,7 @@
 								</p>
 							</div>
 							<div class="hero-info">
-								<h2>General Info</h2>
 								<ul>
-									<li><span>Date of Birth</span>Nov 02, 1991</li>
-									<li><span>Address</span>Rosia Road 55, Gibraltar, UK</li>
 									<li><span>E-mail</span>Olawalestone471@gmail.com</li>
 									<li><span>Phone </span>+234 814 726 1224</li>
 								</ul>
