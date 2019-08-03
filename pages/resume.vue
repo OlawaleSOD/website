@@ -1,152 +1,83 @@
 <template>
-    <div class="my-5">
+    <div>
 	<!-- Resume section start -->
 		<section class="resume-section spad">
 			<div class="container-fluid">
-				<div class="row">
-					<div class="col-lg-10 col-xl-6 offset-lg-1 offset-xl-3 container-warp text-center p-xl-0">
-						<div class="section-title">
-							<h2>Work Experience</h2>
-						</div>
+				<div class="row pt-5">
+					<div class="col-lg-10 col-xl-6 offset-lg-1 offset-xl-5 container-warp text-left p-xl-0">
+						<!-- Skills-->
+					<div class="section-title">
+						<h2>Skills</h2>
+					</div>
+					<ul class="resume-list pb-5">
+					<li>
+					<h5>Illustration</h5>
+					<p>Adobe Illustrator, Affinity Designer</p></li>
+					<li>
+					<h5>Wireframing</h5>
+					<p>Balsamiq, Pencil, Whimsical,LucidChart</p></li>
+					<li>
+					<h5>Prototyping</h5>
+					<p>Figma, Adobe XD, JustinMind Prototyper,Axure RP</p></li>
+					<li>
+					<h5>Notepad</h5>
+					<p>Whimsical, Google Docs, MS Word</p></li>
+					<li>
+					<h5>Form</h5>
+					<p>Google Form, Microsoft Form, Typeform</p></li>
+					</ul>
+				
+
+					<div class="section-title pt-5">
+					<h2>Work Experience</h2>
+				</div>
 						<ul class="resume-list">
 							<li>
-								<h2>2016-Present</h2>
-								<h3>Web Design Company</h3>
-								<h4>Web Designer</h4>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porttitor orci ut sapien scelerisque viverra. Sed trist ique justo nec mauris efficitur, ut lacinia elit dapibus. In egestas elit in dap ibus laoreet. Duis magna libero, fermentum ut facilisis id, pulvinar eget tortor. Vestibulum pelle ntesque tincidunt lorem, vitae euismod felis porttitor sed. </p>
+								<h5>JULY,2017 - NOVEMBER, 2018</h5>
+								<h3>Afkit</h3>
+								<h4>Senior Graphic Designer</h4>
+								<p>● Collaborate with the team - Work closely with product management,engineering throughout product development lifecycle.<br>
+● Collaborate with the marketing and social media management teams to create work that complements strategic product direction. <br>
+● Provide general assistance to product development team.<br>
+● Create an identity for the company and brand individual products.</p>
 							</li>
 							<li>
-								<h2>2014-2016</h2>
-								<h3>Web Design Company</h3>
-								<h4>Web Designer</h4>
-								<p>Sit amet, consectetur adipiscing elit. Sed porttitor orci ut sapien scelerisque viverra. Sed trist ique justo nec mauris efficitur, ut lacinia elit dapibus. In egestas elit in dap ibus laoreet. Duis magna libero, fermentum ut facilisis id, pulvinar eget tortor. Vestibulum pelle ntesque tincidunt lorem, vitae euismod felis porttitor sed. </p>
+								<h5>JANUARY, 2019 - JUNE, 2019</h5>
+								<h3>iCode Innovation Hub</h3>
+								<h4>UI/Visual Designer</h4>
+								<p>● Assist developers with UI development level complexities <br>
+● Creates or directs the creation of graphics, icons, animations and other visual assets for UI development<br>
+● Develops or directs the development of UI code (HTML5, CSS3,Javascript)<br>
+● Develop Responsive Pages using the latest Technologies<br>
+● Make independent creative decisions and work with a team to execute<br>
+● Refine designs in collaboration with users, product managers, and front-end developers<br>
+● Implement Designs on JavaScript Frameworks( React, Next, Vuejs, Nuxt etc)</p>
 							</li>
 						</ul>
-						<div class="spad">
-							<div class="section-title">
+
+
+ 
+						<div class="section-title pt-5">
 								<h2>Education</h2>
 							</div>
 							<ul class="resume-list">
 								<li>
-									<h2>2008</h2>
-									<h3>Ui/Ux Diploma</h3>
-									<h4>Design College California</h4>
-									<p>Sit amet, consectetur adipiscing elit. Sed porttitor orci ut sapien scelerisque viverra. Sed trist ique justo nec mauris efficitur, ut lacinia elit dapibus. In egestas elit in dap ibus laoreet. Duis magna libero, fermentum ut facilisis id, pulvinar eget tortor. Vestibulum pelle ntesque tincidunt lorem, vitae euismod felis porttitor sed. </p>
+									<h5>2012</h5>
+									<h3>PEDPOLY, EDE - <em>Diploma</em></h3>
+									<h4>Electronic & Electrical Engineering</h4>
 								</li>
 								<li>
-									<h2>2006</h2>
-									<h3>Web design Diploma</h3>
-									<h4>Design College California</h4>
-									<p>Sit amet, consectetur adipiscing elit. Sed porttitor orci ut sapien scelerisque viverra. Sed trist ique justo nec mauris efficitur, ut lacinia elit dapibus. In egestas elit in dap ibus laoreet. Duis magna libero, fermentum ut facilisis id, pulvinar eget tortor. Vestibulum pelle ntesque tincidunt lorem, vitae euismod felis porttitor sed. </p>
+									<h5>2018</h5>
+									<h3>OBAFEMI AWOLOWO UNIVERSITY,ILE IFE - <em>Degree</em></h3>
+									<h4>Electronic & Electrical Engineering</h4>
 								</li>
 							</ul>
-						</div>
-						<div class="section-title">
-							<h2>References</h2>
-						</div>
-						<!-- review slider -->
-						<div class="review-slider owl-carousel">
-							<div class="single-review">
-								<div class="qut">“</div>
-								<p>Sit amet, consectetur adipiscing elit. Sed porttitor orci ut sapien scelerisque viverra. Sed trist ique justo nec mauris efficitur, ut lacinia elit dapibus. In egestas elit in dap ibus laoreet. Duis magna libero, fermentum ut facilisis id, pulvinar eget tortor. Vestibulum pelle ntesque tincidunt lorem, vitae euismod felis porttitor sed. </p>
-								<h3>Robert G. Smith</h3>
-								<h4>Manager, Company</h4>
-							</div>
-							<div class="single-review">
-								<div class="qut">“</div>
-								<p>Sit amet, consectetur adipiscing elit. Sed porttitor orci ut sapien scelerisque viverra. Sed trist ique justo nec mauris efficitur, ut lacinia elit dapibus. In egestas elit in dap ibus laoreet. Duis magna libero, fermentum ut facilisis id, pulvinar eget tortor. Vestibulum pelle ntesque tincidunt lorem, vitae euismod felis porttitor sed. </p>
-								<h3>Robert G. Smith</h3>
-								<h4>Manager, Company</h4>
-							</div>
-							<div class="single-review">
-								<div class="qut">“</div>
-								<p>Sit amet, consectetur adipiscing elit. Sed porttitor orci ut sapien scelerisque viverra. Sed trist ique justo nec mauris efficitur, ut lacinia elit dapibus. In egestas elit in dap ibus laoreet. Duis magna libero, fermentum ut facilisis id, pulvinar eget tortor. Vestibulum pelle ntesque tincidunt lorem, vitae euismod felis porttitor sed. </p>
-								<h3>Robert G. Smith</h3>
-								<h4>Manager, Company</h4>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-10 col-xl-8 offset-lg-1 offset-xl-2 container-warp">
-						<!-- skill section start -->
-						<section class="skill-section spad">
-							<div class="section-title text-center">
-								<h2>Skills</h2>
-							</div>
-							<div class="row">
-								<div class="col-lg-6">
-
-									<div class="skills pt-5 pt-lg-0">
-                                        <ul class="blist">
-                                            <li>
-										<div class="single-progress-item">
-											<div class="progress-bar-style" data-progress="99"></div>
-											<p>Design</p>
-										</div>
-                                            </li>
-                                            <li>
-										<div class="single-progress-item">
-											<div class="progress-bar-style" data-progress="75"></div>
-											<p>Illsutrator</p>
-										</div>
-                                            </li>
-                                            <li>
-										<div class="single-progress-item">
-											<div class="progress-bar-style" data-progress="87"></div>
-											<p>Photoshop</p>
-										</div>
-                                            </li>
-                                            <li>
-										<div class="single-progress-item">
-											<div class="progress-bar-style" data-progress="60"></div>
-											<p>HTML</p>
-										</div>
-                                            </li>
-                                        </ul>
-									</div>
-									
-								</div>
-							</div>
-						</section>
-						<!-- skill section end -->
-						<div class="footer-top-section">
-							<div class="row">
-								<div class="col-xl-4">
-									<div class="section-title">
-										<h2>Languages</h2>
-									</div>
-									<ul class="language-progress">
-										<li>English<div class="lan-prog" data-lanprogesss="5"></div></li>
-										</ul>
-								</div>
-								<div class="col-xl-8 pt-5 pt-lg-0">
-									<div class="section-title">
-										<h2>Hobbies</h2>
-									</div>
-									<div class="icon-box-area">
-										<div class="icon-box">
-											<i class="flaticon-032-cooking"></i>
-											<p>Cooking</p>
-										</div>
-										<div class="icon-box">
-											<i class="flaticon-015-photo-camera"></i>
-											<p>Photography</p>
-										</div>
-										<div class="icon-box">
-											<i class="flaticon-013-chess-1"></i>
-											<p>Playing Games</p>
-										</div>
-										<div class="icon-box">
-											<i class="flaticon-001-yoga"></i>
-											<p>Listening to music</p>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
+				
+				
+				</div>
+						
 					</div>
 				</div>
-			</div>
 		</section>
-	<!-- Resume section end -->
     </div>
 </template>

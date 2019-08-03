@@ -12,17 +12,11 @@
 
     <b-collapse id="nav-text-collapse" is-nav>
       <b-navbar-nav>
-
-      <b-nav>
-    <b-nav-item class="mx-3"><nuxt-link to="/work">Work</nuxt-link></b-nav-item>
-    <b-nav-item class="mx-3"><nuxt-link to="/about">About</nuxt-link></b-nav-item>
-    <b-nav-item-dropdown right>
-      <template slot="button-content">Info</template>
-          <b-dropdown-item><nuxt-link to="/resume">Resume</nuxt-link></b-dropdown-item>
-          <b-dropdown-item><nuxt-link to="/coverletter">Cover Letter</nuxt-link></b-dropdown-item>
-        </b-nav-item-dropdown>
-      </b-nav>
-    
+        <b-nav>
+          <b-nav-item class="mx-3"><nuxt-link to="/work">Work</nuxt-link></b-nav-item>
+          <b-nav-item class="mx-3"><nuxt-link to="/about">About</nuxt-link></b-nav-item>          
+          <b-nav-item><nuxt-link to="/resume">Resume</nuxt-link></b-nav-item>
+        </b-nav>
       </b-navbar-nav>
     </b-collapse>
   </b-navbar>
