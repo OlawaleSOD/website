@@ -63,7 +63,7 @@
 							<ul class="resume-list">
 								<li>
 									<h5>2012</h5>
-									<h3>PEDPOLY, EDE - <em>Diploma</em></h3>
+									<h3>FEDERAL POLYTECHNIC, EDE - <em>Diploma</em></h3>
 									<h4>Electronic & Electrical Engineering</h4>
 								</li>
 								<li>
