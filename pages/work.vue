@@ -36,7 +36,7 @@
 					</div>
 					<div class="col-xl-3 col-lg-6 col-md-6">
 						<div class="portfolio-item">
-							<a href="/monte" class="set-bg port-pic" data-setbg="img/portfolio/4.jpg"></a>
+							<a href="/montepay" class="set-bg port-pic" data-setbg="img/portfolio/4.jpg"></a>
 							<h2>Montepay <small style="color:grey;font-size:12pt;"><em> (Quick payment platform)</em></small></h2>
 							<p>Product Design</p>
 						</div>

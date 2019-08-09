@@ -10,7 +10,6 @@
 							<div class="hero-text">
 								<h2>Olawale Samuel</h2>
 								<p>I’m a Product designer.
-								I love photography.
 								</p>
 							</div>
 							<div class="hero-info">
@@ -22,7 +21,7 @@
 						</div>
 						<div class="col-lg-6">
 							<figure class="hero-image">
-								<img src="img/hero.jpg" alt="5">
+							<!--	<img src="~/assets/me.jpg" alt="5"> -->
 							</figure>
 						</div>
 					</div>
