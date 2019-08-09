@@ -25,21 +25,17 @@
 
     <section class="portfolio-section spad pb-0">
         <div class="row">
-				<div class="col-xl-4 col-md-8 offset-xl-2 ">
+				<div class="col-xl-4 col-md-8 offset-2 mb-3">
 					<div class="section-title">
 						<h3>Background</h3>
 
 					</div>
 				</div>
-                <div class="col-xl-4 col-md-8">
+                <div class="col-xl-4 col-md-8 offset-2">
 					<div class="section-title">
-					<p>Expression Media Agency is a startup company</p>
-                    <p>Their services include</p>
-                    <p><ul>
-                        <li>Branding</li>
-                        <li>Digital Marketing</li>
-                        <li>Website Development</li>
-                    </ul></p>
+					<p>Expression Media Agency is a startup company, Their services include</p>
+                    <p>Branding<br>Digital Marketing<br>Website Development
+                    </p>
                     <p>&nbsp;</p>
 
 					</div>
@@ -47,26 +43,68 @@
 			</div>
     </section>
 
-    <section class="portfolio-section spad pb-0">
+	<section class="portfolio-section spad pb-0">
         <div class="row">
-				
-                <div class="col-xl-4 col-md-8 offset-xl-1">
+				<div class="col-xl-4 col-md-8 offset-2 mb-3">
 					<div class="section-title">
-					<p>Expression Media Agency is a startup company</p>
-                    <p>Their services include</p>
-                    <p><ul>
-                        <li>Branding</li>
-                        <li>Digital Marketing</li>
-                        <li>Website Development</li>
-                    </ul></p>
-                    <p>&nbsp;</p>
+						<h3>Role</h3>
 
 					</div>
 				</div>
-                <div class="col-xl-4 col-md-8 offset-xl-2 ">
+                <div class="col-xl-4 col-md-8 offset-2">
 					<div class="section-title">
-						<h3>Prototype Concept</h3>
+					<p>UI Designer</p><Span>Olawale Samuel(Me)</Span>
+					<p>Frontend Developer</p><Span>Ayooluwa Oyewo<br>Olawale Samuel<br>Arunah Isreal</Span>    
+					</div>
+				</div>
+			</div>
+    </section>
 
+	<section class="portfolio-section spad pb-0">
+        <div class="row">
+				<div class="col-xl-4 col-md-8 offset-2 mb-3">
+					<div class="section-title">
+						<h3>Tools</h3>
+
+					</div>
+				</div>
+                <div class="col-xl-4 col-md-8 offset-2">
+					<div class="section-title">
+					<p>Figma (Prototyping and Collaboration)</p>
+					<p>Next JS Framework (Development)</p>
+					<p>Github (Code Maintenance & Collaboration) </p>   
+					</div>
+				</div>
+			</div>
+    </section>
+
+    <section class="portfolio-section spad pb-0">
+        <div class="row">
+					<div class="col-xl-6 col-lg-6 col-md-6 offset-xl-1">
+						<div class="portfolio-item">
+                            <img src="~/assets/pageabout.jpg" class="img-fluid" alt="Responsive image">
+
+						</div>
+					</div>
+                <div class="col-xl-4 col-md-4 offset-xl-1 ">
+					<div class="portfolio-title">
+						<h2>Prototype Concept</h2>
+					</div>
+				</div>
+			</div>
+    </section>
+
+	<section class="portfolio-section spad pb-0">
+        <div class="row">
+				<div class="col-xl-4 col-md-8 offset-xl-2 offset-1 mb-3">
+					<div class="section-title">
+						<h3>Link to Website</h3>
+
+					</div>
+				</div>
+                <div class="col-xl-4 col-md-8 offset-1">
+					<div class="section-title">
+					<p><a href="https://exmdigital.com">https://exmdigital.com</a></p>
 					</div>
 				</div>
 			</div>

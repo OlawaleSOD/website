@@ -79,6 +79,7 @@ ol {
 	line-height: normal;
 }
 
+
 .section-title h2:after {
 	position: absolute;
 	content: '';
@@ -86,7 +87,13 @@ ol {
 	height: 2px;
 	left: 0;
 	bottom: 0;
-	background: #40424a;
+}
+
+.portfolio-title h2 {
+	display: inline-flex;
+	position: relative;
+	margin-bottom: 110px;
+	padding-bottom: 2px;
 }
 
 .set-bg {
@@ -621,8 +628,8 @@ ol {
 .portfolio-item .port-pic {
 	margin-bottom: 30px;
 	display: block;
+	border-radius: 10px;
 	height: 480px;
-	background: #333;
 	background-position: center center;
 	background-size: cover;
 	overflow: hidden;
