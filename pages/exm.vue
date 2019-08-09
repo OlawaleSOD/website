@@ -46,5 +46,32 @@
 				</div>
 			</div>
     </section>
+
+    <section class="portfolio-section spad pb-0">
+        <div class="row">
+				
+                <div class="col-xl-4 col-md-8 offset-xl-1">
+					<div class="section-title">
+					<p>Expression Media Agency is a startup company</p>
+                    <p>Their services include</p>
+                    <p><ul>
+                        <li>Branding</li>
+                        <li>Digital Marketing</li>
+                        <li>Website Development</li>
+                    </ul></p>
+                    <p>&nbsp;</p>
+
+					</div>
+				</div>
+                <div class="col-xl-4 col-md-8 offset-xl-2 ">
+					<div class="section-title">
+						<h3>Prototype Concept</h3>
+
+					</div>
+				</div>
+			</div>
+    </section>
+
+
     </div>
 </template>
