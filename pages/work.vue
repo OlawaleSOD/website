@@ -15,7 +15,10 @@
 				<div class="row">
 					<div class="col-xl-3 col-lg-6 col-md-6">
 						<div class="portfolio-item">
-							<a href="/exm" class="set-bg port-pic" data-setbg="img/portfolio/1.jpg"></a>
+							
+							<a href="/exm" class="set-bg port-pic">
+								<img src="~/assets/exmlogo.png" class="img-fluid" alt="Responsive image">
+							</a>
 							<h2>Expression Media Website</h2>
 							<p>UI Design</p>
 						</div>
