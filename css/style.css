@@ -629,7 +629,7 @@ ol {
 	margin-bottom: 30px;
 	display: block;
 	border-radius: 10px;
-	height: 480px;
+	height: 420px;
 	background-position: center center;
 	background-size: cover;
 	overflow: hidden;
@@ -652,7 +652,7 @@ ol {
 }
 
 .portfolio-item:hover .port-pic:after {
-	opacity: 0.8;
+	opacity: 0.2;
 	height: 100%;
 	top: 0;
 }

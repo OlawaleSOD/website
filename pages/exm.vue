@@ -53,7 +53,7 @@
 				</div>
                 <div class="col-xl-4 col-md-8 offset-2">
 					<div class="section-title">
-					<p>UI Designer</p><Span>Olawale Samuel(Me)</Span>
+					<p>UI Designer</p><Span>Olawale Samuel(Me)<br>Praise Olubunmi</Span><br><br>
 					<p>Frontend Developer</p><Span>Ayooluwa Oyewo<br>Olawale Samuel<br>Arunah Isreal</Span>    
 					</div>
 				</div>
@@ -102,7 +102,7 @@
 
 					</div>
 				</div>
-                <div class="col-xl-4 col-md-8 offset-1">
+                <div class="col-xl-4 col-md-8 offset-1 mb-5">
 					<div class="section-title">
 					<p><a href="https://exmdigital.com">https://exmdigital.com</a></p>
 					</div>
