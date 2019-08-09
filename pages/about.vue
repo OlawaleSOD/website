@@ -10,8 +10,7 @@
 						<div class="col-lg-6">
 							<div class="hero-text">
 								<h2>Olawale Samuel</h2>
-								<p>I’m a Product designer.
-								I love photography.
+								<p>I’m a Product designer
 								</p>
 							</div>
 							<div class="hero-info">
