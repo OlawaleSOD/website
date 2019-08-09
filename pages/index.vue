@@ -1,6 +1,6 @@
 <template>
   <div>
-    <b-jumbotron class="flex bg-white flex-wraps mt-5">
+    <b-jumbotron class="flex flex-wraps">
       <b-container fluid>
         <Hero />
       </b-container>

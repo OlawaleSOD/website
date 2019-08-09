@@ -3,8 +3,15 @@
 	<!-- Resume section start -->
 		<section class="resume-section spad">
 			<div class="container-fluid">
+				<div class="row">
+				<div class="col-xl-4 col-md-8 col-sm-12 offset-2 ">
+					<div class="section-title">
+						<h2>Olawale Samuel</h2>
+					</div>
+				</div>
+			</div>
 				<div class="row pt-5">
-					<div class="col-lg-10 col-xl-6 offset-lg-1 offset-xl-5 container-warp text-left p-xl-0">
+					<div class="col-lg-10 col-xl-6 offset-lg-1 offset-xl-2 container-warp text-left">
 						<!-- Skills-->
 					<div class="section-title">
 						<h2>Skills</h2>
