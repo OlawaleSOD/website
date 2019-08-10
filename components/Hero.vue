@@ -8,8 +8,7 @@
 					<div class="row">
 						<div class="col-lg-6">
 							<div class="hero-text">
-								<h2>Olawale Samuel</h2>
-								<p>I’m a Product designer.
+								<p>People ignore <em>design</em> that ignores people.
 								</p>
 							</div>
 							<div class="hero-info">
@@ -21,7 +20,7 @@
 						</div>
 						<div class="col-lg-6">
 							<figure class="hero-image">
-							<!--	<img src="~/assets/me.jpg" alt="5"> -->
+							<img src="~/assets/svg/freestyle.svg" alt="5">
 							</figure>
 						</div>
 					</div>
