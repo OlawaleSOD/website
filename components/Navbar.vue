@@ -11,11 +11,11 @@
     </b-navbar-brand>
 
     <b-collapse id="nav-text-collapse" is-nav>
-      <b-navbar-nav>
+      <b-navbar-nav class="ml-auto mx-5">
         <b-nav>
-          <b-nav-item class="mx-3"><nuxt-link to="/work">Work</nuxt-link></b-nav-item>
-          <b-nav-item class="mx-3"><nuxt-link to="/about">About</nuxt-link></b-nav-item>          
-          <b-nav-item><nuxt-link to="/resume">Resume</nuxt-link></b-nav-item>
+          <b-nav-item class="mx-3 border-bottom"><nuxt-link to="/work">Work</nuxt-link></b-nav-item>
+          <b-nav-item class="mx-3 border-bottom"><nuxt-link to="/about">About</nuxt-link></b-nav-item>          
+          <b-nav-item class="border-bottom"><nuxt-link to="/resume">Resume</nuxt-link></b-nav-item>
         </b-nav>
       </b-navbar-nav>
     </b-collapse>
