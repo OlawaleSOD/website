@@ -1,25 +1,21 @@
 <template>
   <div>
-  <b-navbar fixed="top" toggleable="sm" type="light" variant="light">
-    <b-navbar-toggle target="nav-text-collapse"></b-navbar-toggle>
 
-    <b-navbar-brand class="mx-5">
-      <a href="/">
-      <img src="/raxzle.png">
-      </a>
-      <span href="/" class="text-white"><a href="/">Braxzle</a></span>
-    </b-navbar-brand>
+  <header id="site-header" class="m-all t-all d-all ld1 xld1">
+				<section id="masthead-wrapper">
+					<div class="logo-wrapper m2 t2-t7 d1-d3">
+													<a class="logo" id="logo" href="/">
+								<img src="https://res.cloudinary.com/sikk/image/upload/v1568570972/Braxzle/Asset_1_2x_nwgcan.png" alt="Olawale Samuel Logo" />
+							</a>
+					</div>
+					<p class="micro m2 t2-t7 d4-d6 ld-hide xld-hide">Olawale Samuel is a Product Designer based in Lagos, Nigeria.</p>
+					<nav class="m2 t2-t7 d7-d10"><ul id="menu-main" class="menu"><li id="menu-item-808" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-58 current_page_item menu-item-808"><a href="/" aria-current="page">Portfolio</a></li>
+<li id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63"><a href="/">Writing</a></li>
+<li id="menu-item-807" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-807"><a href="/about">About</a></li>
+</ul></nav>				</section>
+			</header>
+  
 
-    <b-collapse id="nav-text-collapse" is-nav>
-      <b-navbar-nav class="ml-auto mx-5">
-        <b-nav>
-          <b-nav-item class="mx-3 border-bottom"><nuxt-link to="/work">Work</nuxt-link></b-nav-item>
-          <b-nav-item class="mx-3 border-bottom"><nuxt-link to="/about">About</nuxt-link></b-nav-item>          
-          <b-nav-item class="border-bottom"><nuxt-link to="/resume">Resume</nuxt-link></b-nav-item>
-        </b-nav>
-      </b-navbar-nav>
-    </b-collapse>
-  </b-navbar>
 </div>
 </template>
 

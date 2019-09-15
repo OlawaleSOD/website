@@ -68,20 +68,6 @@
     </section>
     <hr>
 
-    <section class="spad pb-2 bg-primary">
-        <b-row>
-            <b-col cols="5">
-                <div class="p-5 offset-1 text-center text-white">
-                    <h1 class="display-4">Persona</h1>
-				</div>
-            </b-col>
-            <b-col>
-                <div class="portfolio-item pb-5">
-                    <img src="~/assets/persona_timeoff.jpg" class="img-fluid" alt="Persona">
-				</div>
-            </b-col>
-        </b-row>
-    </section>
 
     <section class="spad pb-2 bg-white">
         <b-row>

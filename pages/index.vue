@@ -1,10 +1,9 @@
 <template>
   <div>
-    <b-jumbotron class="flex flex-wraps">
       <b-container fluid>
         <Hero />
       </b-container>
-    </b-jumbotron>
+   
 
 
     <section class="my-20">
