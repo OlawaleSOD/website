@@ -110,6 +110,11 @@
 			</div>
     </section>
 
+	<footer class="up-next m-all t-all d-all ld-all xld-all dark">
+		<h4 class="m2 t2-t3 d4-d5 ld4-ld5 xld4-xld5">olawale samuel</h4>
+	 	<a class="micro m2 t4-t7 d6-d9 ld6-ld8 xld6-xld8" href="/timeoff">Timeoff Manager</a>
+	</footer>
+
 
     </div>
 </template>
