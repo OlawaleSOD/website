@@ -33,7 +33,7 @@
 		      	</div>
 		      	<div class="project-desc m-padinfull t-all">
 			        <h2>Watchio</h2>
-			        <p>Building a better concentration and productivity system.</p>
+			        <p>Building a concentration and productivity system.</p>
 		           <a href="/watchio" class="micro">Read More</a>
 		       </div>
 		    </div>
@@ -46,7 +46,7 @@
 		      	<div class="project-desc m-padinfull t-all">
 			        <h2>Expression Media</h2>
 			        <p>Digital marketing and branding platform.</p>
-		      		<a href="work/independent-living-centre-nsw-case-study/" class="micro">Read More</a>
+		      		<a href="/exm" class="micro">Read More</a>
 		       </div>
 		    </div>
 		</li>
